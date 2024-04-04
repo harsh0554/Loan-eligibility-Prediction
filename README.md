@@ -1,1 +1,1 @@
-# Loan-eligibility-Prediction
+# Loan-Eligibility-Prediction
